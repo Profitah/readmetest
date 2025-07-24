@@ -5,7 +5,13 @@
 ## 주요기능
 1. **더빙 체험**  
    내가 원하는 영상을 클릭해 더빙 체험을 진행하세요  
-   ![더빙 체험 화면](https://github.com/user-attachments/assets/7d550cfc-1a92-4fec-82dd-5b22f08160de)
+ <img
+  src="https://github.com/user-attachments/assets/7d550cfc-1a92-4fec-82dd-5b22f08160de"
+  alt="더빙 체험 화면"
+  width="3299"
+  height="auto"
+/>
+
 
 2. **실시간 문장 유사도 검사**  
    원본영상과 내 싱크를 실시간으로 비교하세요
@@ -15,7 +21,13 @@
 
 4. **내가 원하는 영상 요청**  
    내가 원하는 영상을 관리자에게 요청하세요  
-   ![영상 요청 화면](https://github.com/user-attachments/assets/4a4f1727-8513-482e-bb36-38d090252a6d)
+   <img
+  src="https://github.com/user-attachments/assets/4a4f1727-8513-482e-bb36-38d090252a6d"
+  alt="더빙 체험 화면"
+  width="3299"
+  height="auto"
+/>
+
    <img width="1447" height="725" alt="요청 화면" src="https://github.com/user-attachments/assets/24c62bee-7313-4857-aa0e-e8c24c17cf33" />
 
 ## 서비스 구조도
