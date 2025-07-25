@@ -12,14 +12,38 @@
   height="auto"
 />
 
+2. **실시간 문장 유사도 검사** 
+원본영상과 내 싱크를 실시간으로 비교하세요
 
-2. **실시간 문장 유사도 검사**  
-   원본영상과 내 싱크를 실시간으로 비교하세요
+   문장 싱크 분석
+    <img
+  src="https://github.com/user-attachments/assets/2fe90e90-9037-4284-849d-f6c9301f47f6"
+  alt="더빙 체험 화면"
+  width="3299"
+  height="auto"
+/>
 
-3. **콘텐츠 생성**  
+영상 전체 싱크 분석
+    <img
+  src=""
+  alt="더빙 체험 화면"
+  width="3299"
+  height="auto"
+/>
+
+
+
+
+
+4. **콘텐츠 생성**  
    내 목소리가 입혀진 더빙 영상을 만들어보세요
-
-4. **내가 원하는 영상 요청**  
+   <img
+  src=""
+  alt="더빙 체험 화면"
+  width="3299"
+  height="auto"
+/>
+5. **내가 원하는 영상 요청**  
    내가 원하는 영상을 관리자에게 요청하세요  
    <img
   src="https://github.com/user-attachments/assets/4a4f1727-8513-482e-bb36-38d090252a6d"
